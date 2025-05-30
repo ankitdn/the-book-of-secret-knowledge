@@ -659,6 +659,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.cvedetails.com/"><b>CVE Details</b></a> - CVE security vulnerability advanced database.<br>
 &nbsp;&nbsp; <a href="https://www.exploit-db.com/"><b>Exploit DB</b></a> - CVE compliant archive of public exploits and corresponding vulnerable software.<br>
 &nbsp;&nbsp; <a href="https://0day.today/"><b>0day.today</b></a> - exploits market provides you the possibility to buy/sell zero-day exploits.<br>
+&nbsp;&nbsp; <a href="https://Vulert/vuln-db.com/"><b>Vulert-Db</b></a> -Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.<br>
 &nbsp;&nbsp; <a href="https://sploitus.com/"><b>sploitus</b></a> - the exploit and tools database.<br>
 &nbsp;&nbsp; <a href="https://cxsecurity.com/exploit/"><b>cxsecurity</b></a> - free vulnerability database.<br>
 &nbsp;&nbsp; <a href="https://www.vulncode-db.com/"><b>Vulncode-DB</b></a> - is a database for vulnerabilities and their corresponding source code if available.<br>
